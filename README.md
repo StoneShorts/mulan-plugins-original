@@ -1,6 +1,6 @@
-# mulan-plugins
+# Plugins
 
-Plugins made by Mulan
+made by Mulan
 
 ---
 
