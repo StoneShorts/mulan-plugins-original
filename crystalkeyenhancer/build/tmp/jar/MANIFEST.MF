@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 0.0.1
+Plugin-Id: crystalkeyenhancer-plugin
+Plugin-Provider: Mulan92
+Plugin-Dependencies: autils-plugin
+Plugin-Description: Enhances your crystal keys in Prif.
+Plugin-License: 3-Clause BSD License
+
