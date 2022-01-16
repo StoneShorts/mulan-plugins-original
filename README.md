@@ -30,3 +30,5 @@ Repo's for source:
 
 ---
 Please do report all bugs to Mulan#9259 !
+
+Thank you to those who inspired me. Soon more plugins will be released, ofcourse free!
