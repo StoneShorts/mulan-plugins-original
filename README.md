@@ -8,8 +8,8 @@ First plugin is out!
 
 ---
 Crystal Key Enhancer
--Making enhanced crystal keys in prif
--Opening elves chest in prif
+- Making enhanced crystal keys in prif
+- Opening elves chest in prif
 
 Requirements:
 - Eternal teleport crystal
