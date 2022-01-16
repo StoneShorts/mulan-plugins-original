@@ -8,8 +8,8 @@ First plugin is out!
 
 ---
 Crystal Key Enhancer
-- Making enhanced crystal keys in prif
-- Opening elves chest in prif
+- Making enhanced crystal keys in prif and bank in GE.
+- Opening elves chest in prif and bank in GE.
 
 Requirements:
 - Eternal teleport crystal
