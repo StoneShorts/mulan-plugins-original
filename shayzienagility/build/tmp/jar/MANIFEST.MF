@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 1.0
+Plugin-Id: shayzienagility-plugin
+Plugin-Provider: Mulan92
+Plugin-Dependencies: autils-plugin
+Plugin-Description: Runs the course in Shayzien
+Plugin-License: 3-Clause BSD License
+

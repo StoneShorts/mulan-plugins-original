@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "shayzienagility",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "ydufbcubzfd7xh3w673whh5fpq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "shayzienagility-0.0.1.jar",
+          "url": "shayzienagility-0.0.1.jar",
+          "size": 16573,
+          "sha512": "8d5eac85d099744debf2ed59a22612ec0619e2e956d9d19b81e3a9317e32f92e9461375506bce93c1822adcf1d2b424f331c58e60d58918486bdb88b8fec2e0a",
+          "sha256": "f7295047e458f8f32f4be796c12a660a76a8f56fca1e5820f6f49a91a2c2571b",
+          "sha1": "a25456e2587bea0f141061dc11c4edbd290dbc3f",
+          "md5": "fa05621899fea09ced914b2d9eabb147"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "shayzienagility-0.0.1.jar",
+          "url": "shayzienagility-0.0.1.jar",
+          "size": 16573,
+          "sha512": "8d5eac85d099744debf2ed59a22612ec0619e2e956d9d19b81e3a9317e32f92e9461375506bce93c1822adcf1d2b424f331c58e60d58918486bdb88b8fec2e0a",
+          "sha256": "f7295047e458f8f32f4be796c12a660a76a8f56fca1e5820f6f49a91a2c2571b",
+          "sha1": "a25456e2587bea0f141061dc11c4edbd290dbc3f",
+          "md5": "fa05621899fea09ced914b2d9eabb147"
+        }
+      ]
+    }
+  ]
+}
