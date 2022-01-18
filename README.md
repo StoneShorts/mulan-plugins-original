@@ -26,6 +26,9 @@ Shayzien Agility
 
 Requirements:
 - Crossbow and mithril grapple (only for the advanced course)
+
+Start off near the ladder of the course and then just select basic or advanced.
+
 ---
 
 Plugins use AUtils (for now), so you will need to place that too in your plugins folder.
