@@ -7,6 +7,10 @@ made by Mulan
 Second plugin is out!
 
 ---
+
+Leagues: Illumine's agility plugin extra: added collecting coins if you have the fragment golden brick road.
+
+---
 Crystal Key Enhancer
 - Making enhanced crystal keys in prif and bank in GE.
 - Opening elves chest in prif and bank in GE.
