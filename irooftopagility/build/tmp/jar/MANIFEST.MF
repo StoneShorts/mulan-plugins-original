@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 6.1.7
+Plugin-Id: irooftopagility-plugin
+Plugin-Provider: illumine
+Plugin-Dependencies: iutils-plugin
+Plugin-Description: Illumine automated rooftop agility plugin
+Plugin-License: 3-Clause BSD License
+
