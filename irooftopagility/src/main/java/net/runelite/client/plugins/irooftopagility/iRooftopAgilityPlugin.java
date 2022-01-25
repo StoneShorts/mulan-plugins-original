@@ -543,9 +543,11 @@ public class iRooftopAgilityPlugin extends Plugin {
                     targetMenu = new LegacyMenuEntry("", "", ItemID.MARK_OF_GRACE, 20, markOfGraceTile.getSceneLocation().getX(), markOfGraceTile.getSceneLocation().getY(), false);
                     menu.setEntry(targetMenu);
                     mouse.delayClickRandomPointCenter(-200, 200, sleepDelay());
-                    targetMenu = new LegacyMenuEntry("", "", ItemID.COINS_995, 20, coinsTile.getSceneLocation().getX(), coinsTile.getSceneLocation().getY(), false);
-                    menu.setEntry(targetMenu);
-                    mouse.delayClickRandomPointCenter(-200, 200, sleepDelay());
+                    if (config.coinPickup()) {
+                        targetMenu = new LegacyMenuEntry("", "", ItemID.COINS_995, 20, coinsTile.getSceneLocation().getX(), coinsTile.getSceneLocation().getY(), false);
+                        menu.setEntry(targetMenu);
+                        mouse.delayClickRandomPointCenter(-200, 200, sleepDelay());
+                    }
                     break;
                 case FIND_OBSTACLE:
                     findObstacle();
@@ -560,7 +562,7 @@ public class iRooftopAgilityPlugin extends Plugin {
                     break;
                 case CAST_CAMELOT_TELEPORT:
                     targetMenu = new LegacyMenuEntry("", "", 2, MenuAction.CC_OP.getId(), -1,
-                            14286879, false);
+                            14286880, false);
                     Widget spellWidget = client.getWidget(WidgetInfo.SPELL_CAMELOT_TELEPORT);
                     if (spellWidget != null) {
                         menu.setEntry(targetMenu);

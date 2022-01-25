@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "irooftopagility",
+    "version": "6.1.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.2.1",
+      "buildId": "lavxnv5vyfdsnbgeipkszyu76q"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "irooftopagility-6.1.7.jar",
+          "url": "irooftopagility-6.1.7.jar",
+          "size": 30342,
+          "sha512": "3fe7343ea37030d6a94dfdbe46daa9bcc923d4fd0393a51ab1016ea87af3c686e34515083ed28c9aa431dde8d7528230e465aadd0e7895c1a2a87de5a1672a8a",
+          "sha256": "69da9b1d112b561356e3c8fd16de434235194a5e45808945ffd183b9ebdc7b6b",
+          "sha1": "a436e42b88ffc20ba26aaf481481b251e8e6b7be",
+          "md5": "a97855a1a902680b92b4f47a4938c723"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "irooftopagility-6.1.7.jar",
+          "url": "irooftopagility-6.1.7.jar",
+          "size": 30342,
+          "sha512": "3fe7343ea37030d6a94dfdbe46daa9bcc923d4fd0393a51ab1016ea87af3c686e34515083ed28c9aa431dde8d7528230e465aadd0e7895c1a2a87de5a1672a8a",
+          "sha256": "69da9b1d112b561356e3c8fd16de434235194a5e45808945ffd183b9ebdc7b6b",
+          "sha1": "a436e42b88ffc20ba26aaf481481b251e8e6b7be",
+          "md5": "a97855a1a902680b92b4f47a4938c723"
+        }
+      ]
+    }
+  ]
+}

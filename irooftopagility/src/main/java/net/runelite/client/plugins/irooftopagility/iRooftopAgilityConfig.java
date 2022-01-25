@@ -273,10 +273,21 @@ public interface iRooftopAgilityConfig extends Config {
     }
 
     @ConfigItem(
+            keyName = "coinPickup",
+            name = "Pick up Coins",
+            description = "Enable to pick up coins when it spawns above the Marks of Grace",
+            position = 20,
+            title = "agilityTitle"
+    )
+    default boolean coinPickup() {
+        return true;
+    }
+
+    @ConfigItem(
             keyName = "mogStack",
             name = "Ardougne marks stack",
             description = "The number of marks of grace to be stacked before it is picked up at Ardougne.",
-            position = 20,
+            position = 21,
             title = "agilityTitle",
             hidden = false,
             hide = "highAlch",
@@ -290,7 +301,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "alchMogStack",
             name = "Ardougne marks stack",
             description = "The number of marks of grace to be stacked before it is picked up at Ardougne.",
-            position = 21,
+            position = 22,
             title = "agilityTitle",
             hidden = true,
             unhide = "highAlch",
@@ -304,7 +315,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "lowHP",
             name = "Stop at HP",
             description = "Stop if HP goes below given threshold",
-            position = 22,
+            position = 23,
             title = "agilityTitle"
     )
     default int lowHP() {
@@ -315,7 +326,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "enableUI",
             name = "Enable UI",
             description = "Enable to turn on in game UI",
-            position = 23,
+            position = 24,
             title = "agilityTitle"
     )
     default boolean enableUI() {
@@ -326,7 +337,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "camelotTeleport",
             name = "Use Camelot Teleport",
             description = "Use Camelot Teleport if you have hard diaries completed. Requires Air Runes or (Air Staff equipped) and Law Runes in inventory",
-            position = 24,
+            position = 25,
             title = "agilityTitle"
     )
     default boolean camelotTeleport() {
@@ -337,7 +348,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "boostWithPie",
             name = "Enable Summer Pies",
             description = "Enable using Summer Pies",
-            position = 25,
+            position = 26,
             title = "agilityTitle"
     )
     default boolean boostWithPie() {
@@ -348,7 +359,7 @@ public interface iRooftopAgilityConfig extends Config {
             keyName = "pieLevel",
             name = "Min boost level",
             description = "A Summer Pie will be used whenever your Agility drops below this level",
-            position = 26,
+            position = 27,
             title = "agilityTitle",
             hidden = true,
             unhide = "boostWithPie",
