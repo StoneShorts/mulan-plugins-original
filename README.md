@@ -9,6 +9,7 @@ Second plugin is out!
 ---
 
 Leagues: Illumine's agility plugin extra: added collecting coins if you have the fragment golden brick road.
+- Added a toggle to turn on picking up coins.
 
 ---
 Crystal Key Enhancer
