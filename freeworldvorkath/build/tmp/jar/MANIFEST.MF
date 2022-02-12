@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Plugin-Version: 2.1.7
+Plugin-Id: fwvorkath-plugin
+Plugin-Provider: Mulan
+Plugin-Dependencies: autils-plugin
+Plugin-Description: Free World Vorkath
+Plugin-License: 3-Clause BSD License
+
