@@ -12,6 +12,7 @@ Free World Vorkath
 - As of 12/02/22 it still works.
 - This plugin is merely for educational purposes, you can do what you wish to the source.
 - cba
+- You need AUtils that I modified for it to work.
 ---
 
 Leagues: Illumine's agility plugin extra: added collecting coins if you have the fragment golden brick road.
