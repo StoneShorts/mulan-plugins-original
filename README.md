@@ -42,10 +42,12 @@ Get it from the release folder or from the aplugins repo.
 ---
 
 Repo's for source: 
-- https://github.com/Anarchise/aplugins
 - https://github.com/illumineawake/illu-plugins
 
 ---
 Please do report all bugs to Mulan#9259 !
 
 Thank you to those who inspired me. Soon more plugins will be released, ofcourse free!
+
+Shout out to Mike. 
+https://github.com/mikeester
