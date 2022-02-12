@@ -50,6 +50,8 @@ Get it from the release folder or from the aplugins repo.
 
 Repo's for source: 
 - https://github.com/illumineawake/illu-plugins
+- https://github.com/xKylee/plugins-source
+- https://github.com/ben93riggs/plugins
 
 ---
 Please do report all bugs to Mulan#9259 !
