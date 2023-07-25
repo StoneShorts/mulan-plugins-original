@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "autils",
+    "version": "2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "wr7uvwgyn5g5vilqoiejh6vm5m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "autils-2.jar",
+          "url": "autils-2.jar",
+          "size": 60747,
+          "sha512": "7b28640918c4ce6a326cefc246b0a3d2ce576387b692eb47855ef0b3138284512412cc1dfc5603702de0e2c284187a217874b685ec04307b9cf3fbea008800f6",
+          "sha256": "a93d625a5d12862b7bfa313af566b222674dd450091ad9eee87a5981edb8f79d",
+          "sha1": "91b0db6c728a8e8d4997eb9d7adf6f575653fc81",
+          "md5": "879c89e9497e1983bf3f614db2cb9fc0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "autils-2.jar",
+          "url": "autils-2.jar",
+          "size": 60747,
+          "sha512": "7b28640918c4ce6a326cefc246b0a3d2ce576387b692eb47855ef0b3138284512412cc1dfc5603702de0e2c284187a217874b685ec04307b9cf3fbea008800f6",
+          "sha256": "a93d625a5d12862b7bfa313af566b222674dd450091ad9eee87a5981edb8f79d",
+          "sha1": "91b0db6c728a8e8d4997eb9d7adf6f575653fc81",
+          "md5": "879c89e9497e1983bf3f614db2cb9fc0"
+        }
+      ]
+    }
+  ]
+}
