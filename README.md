@@ -1,6 +1,16 @@
 # Plugins
 
-made by Mulan
+Free World Vorkath
+------------------------
+Adaptation from Avorkath
+------------------------
+- I won't be giving out any support for this plugin. (So anyone DMing about it to me, will be blocked.)
+- As of 12/02/22 it still works.
+- This plugin is merely for educational purposes, you can do what you wish to the source.
+- cba
+- You need AUtils that I modified for it to work.
+
+made by Assad
 
 ---
 Leagues: Illumine's agility plugin extra: added collecting coins if you have the fragment golden brick road.
@@ -42,7 +52,14 @@ Repo's for source:
 - https://github.com/ben93riggs/plugins
 
 ---
-Please do report all bugs to Mulan#9259 !
+
+Release: Free World Vorkath + Modified AUtils (won't spam click music channel)
+
+---
+
+Please do report all bugs to Assad#9259 !
+
+
 
 Thank you to those who inspired me. Soon more plugins will be released, ofcourse free!
 
